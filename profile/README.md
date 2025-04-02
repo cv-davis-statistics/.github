@@ -9,9 +9,9 @@ Eventually, the following courses will be present in the repositories.
 - [x] STA 108: Applied Statistical Methods: Regression Analysis
 - [x] STA 131A: Introduction to Probability Theory (UG)
 - [x] STA 131B: Introduction to Mathematical Statistics I (UG)
-- [ ] STA 135: Multivariate Data Analysis
+- [x] STA 135: Multivariate Data Analysis
 - [x] STA 141A: Fundamentals of Statistical Data Science
-- [ ] STA 142A: Statistical Learning I
+- [x] STA 142A: Statistical Learning I
 - [ ] STA 142B: Statistical Learning II
 
 ### Graduate Statistics
@@ -24,7 +24,7 @@ Eventually, the following courses will be present in the repositories.
 - [ ] STA 209: Optimization for Big Data Analytics
 - [x] STA 220: Data & Web Technologies for Data Analysis
 - [ ] STA 221: Big Data & High Performance Statistical Computing
-- [ ] STA 243: Computational Statistics
+- [x] STA 243: Computational Statistics
 
 ### At Least One of the Following
 
