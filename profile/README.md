@@ -16,10 +16,10 @@ Eventually, the following courses will be present in the repositories.
 
 ### Graduate Course Requirements
 
-- [ ] STA 200A: Introduction to Probability Theory
+- [x] STA 200A: Introduction to Probability Theory
 - [ ] STA 200B: Introduction to Mathematical Statistics I
 - [ ] STA 200C: Introduction to Mathematical Statistics II
-- [ ] STA 206: Statistical Methods and Research I
+- [x] STA 206: Statistical Methods and Research I
 - [ ] STA 207: Statistical Methods and Research II
 - [ ] STA 208: Statistical Methods in Machine Learning
 - [x] STA 243: Computational Statistics
@@ -30,5 +30,5 @@ Eventually, the following courses will be present in the repositories.
 - [ ] STA 138: Analysis of Categorical Data
 - [ ] STA 145: Bayesian Statistical Inference
 - [x] STA 220: Data & Web Technologies for Data Analysis
-- [ ] STA 221: Big Data & High Performance Statistical Computing
+- [x] STA 221: Big Data & High Performance Statistical Computing
 - [ ] STA 260: Statistical Practice and Data Analysis
